@@ -11,7 +11,7 @@ This can be done here :  [Donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-
 
 
 
-## Note! Currently only the minilogue xd version has been tested - the prologue version should work BUT IS UNTESTED at this time! This will be updated
+## Note! Currently only the minilogue xd version has been tested - the prologue version should work BUT IS UNTESTED at this time! This will be updated once I can have this done.
 
 
 ### installation
