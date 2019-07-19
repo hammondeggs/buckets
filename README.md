@@ -16,7 +16,7 @@ This can be done here :  [Donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-
 
 ### installation
 
-Ensure you have the KORG minilogue xd sound librarian installed. Now, before you do anything else, **perform a full and complete backup of your synthesizer and save this to disk before continuing**. See the sound librarian manual for instructions on how to do this if required.
+Ensure you have the KORG minilogue xd / prologue sound librarian installed. Now, before you do anything else, **perform a full and complete backup of your synthesizer and save this to disk before continuing**. See the sound librarian manual for instructions on how to do this if required.
 
 Next, select the USER MODULATION EFFECTS tab on the librarian, and press Receive ALL to upload your existing user oscillators. Now, drag and drop the requisite file to an available slot in the librarian :
  - for minilogue xd users, please use buckets.mnlgxdunit
