@@ -1,6 +1,6 @@
 # buckets!
 
-A triple bucket brigade style MOD effect for your KORG Minilogue XD / Prologue Synthesizers!
+A triple bucket brigade style MOD effect for your KORG Minilogue XD synthesizer!
 
 # As always, especially with the KORG user oscillators, these are to be used at your own risk!
 
