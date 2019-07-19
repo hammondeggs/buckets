@@ -2,7 +2,7 @@
 
 A triple bucket brigade style MOD effect for your KORG Minilogue XD / prologue synthesizer!
 
-# As always, especially with the KORG user oscillators, these are to be used at your own risk!
+# As always, these are to be used at your own risk!
 
 ### A quick word...
 I've been having a ton of fun creating these plugins, and it's thirsty work. If you like stuff like this and my other work, by all means feel free to contribute whatever you can to the fund to help fund the beer supply!
