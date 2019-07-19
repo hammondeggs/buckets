@@ -1,6 +1,6 @@
 # buckets!
 
-A triple bucket brigade style MOD effect for your KORG Minilogue XD synthesizer!
+A triple bucket brigade style MOD effect for your KORG Minilogue XD / prologue synthesizer!
 
 # As always, especially with the KORG user oscillators, these are to be used at your own risk!
 
@@ -11,7 +11,7 @@ This can be done here :  [Donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-
 
 
 
-## Note! Currently only a minilogue xd version is available (until testing has been performed on a prologue)!
+## Note! Currently only the minilogue xd version has been tested - the prologue version should work BUT IS UNTESTED at this time! This will be updated
 
 
 ### installation
@@ -19,9 +19,10 @@ This can be done here :  [Donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-
 Ensure you have the KORG minilogue xd sound librarian installed. Now, before you do anything else, **perform a full and complete backup of your synthesizer and save this to disk before continuing**. See the sound librarian manual for instructions on how to do this if required.
 
 Next, select the USER MODULATION EFFECTS tab on the librarian, and press Receive ALL to upload your existing user oscillators. Now, drag and drop the requisite file to an available slot in the librarian :
- - for Minilogue xd users, please use buckets.mnlgxdunit
+ - for minilogue xd users, please use buckets.mnlgxdunit
+ - for prologue users, please use buckets_BETA_UNTESTED.prlgunit for now, please note this has NOT been tested on a prologue yet.
  
- *Note, at this point a prologue version has not been created as it has not been tested on a prologue unit yet.*
+ *Remember, the prologue version has not been tested on an actual prologue yet.*
 
 You should now see buckets V1.00-1 listed in your user modulation effects. Press "Send All" under USER OSC / FX to send all of your user oscillator / effects to your synthesizer.
 
@@ -51,7 +52,7 @@ It is when you combine these, you can get the "string machine" sound.
 
 
 
-#### Play around with the settings,it becomes pretty clear fairly quickly.
+#### Play around with the settings and have fun!
 
 
 
