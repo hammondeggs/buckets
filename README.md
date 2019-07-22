@@ -10,10 +10,6 @@ I've been having a ton of fun creating these plugins, and it's thirsty work. If 
 This can be done here :  [Donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MSTCVLXMG7Z5J&source=url)
 
 
-
-## Note! Currently only the minilogue xd version has been tested - the prologue version should work BUT IS UNTESTED at this time! This will be updated once I can have this done.
-
-
 ### installation
 
 Ensure you have the KORG minilogue xd / prologue sound librarian installed. Now, before you do anything else, **perform a full and complete backup of your synthesizer and save this to disk before continuing**. See the sound librarian manual for instructions on how to do this if required.
