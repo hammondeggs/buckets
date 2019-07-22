@@ -16,11 +16,10 @@ Ensure you have the KORG minilogue xd / prologue sound librarian installed. Now,
 
 Next, select the USER MODULATION EFFECTS tab on the librarian, and press Receive ALL to upload your existing user oscillators. Now, drag and drop the requisite file to an available slot in the librarian :
  - for minilogue xd users, please use buckets.mnlgxdunit
- - for prologue users, please use buckets_BETA_UNTESTED.prlgunit for now, please note this has NOT been tested on a prologue yet.
+ - for prologue users, please use buckets.prlgunit for now, please note this has NOT been tested on a prologue yet.
  
- *Remember, the prologue version has not been tested on an actual prologue yet.*
 
-You should now see buckets V1.00-1 listed in your user modulation effects. Press "Send All" under USER OSC / FX to send all of your user oscillator / effects to your synthesizer.
+You should now see buckets V1.01-1 listed in your user modulation effects. Press "Send All" under USER OSC / FX to send all of your user oscillator / effects to your synthesizer.
 
 *please note if you do not do this correctly you may run the risk of losing data. As always, backup, backup, backup!*
 
@@ -38,7 +37,7 @@ The delayed results are mixed full wet (no source signal is present) with the fi
 
 By default the effect should start with a fairly close approximation of a typical 'string machine'. You have two LFOs you can adjust the depth of, and this is done with the Time and Depth knobs.
 
-- Adjust "Time" to set the depth of the slow "Chorus/Ensemble" LFO
+- Adjust "Time(Speed on prologue)" to set the depth of the slow "Chorus/Ensemble" LFO
 - Adjust "Depth" to set the depth of the fast "Vibrato" LFO.
 
 It is when you combine these, you can get the "string machine" sound.
