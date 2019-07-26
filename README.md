@@ -1,4 +1,4 @@
-# buckets!
+# buckets! (and "Brigade" - see note at the end)
 
 A triple bucket brigade style MOD effect for your KORG Minilogue XD / prologue synthesizer!
 
@@ -49,7 +49,9 @@ It is when you combine these, you can get the "string machine" sound.
 
 #### Play around with the settings and have fun!
 
+### brigade
 
+Brigade, is a fixed value version of the effect, that cannot have its values adjusted. Preferable when you just want that triple chorus sound without any tweaking.
 
 #
 
